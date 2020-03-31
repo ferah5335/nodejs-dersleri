@@ -1,4 +1,4 @@
 var a =23;
-var b='kgjhgjhf';
+var b='Bilgisayar Kavramları';
 console.log(a);
 console.log(b);
