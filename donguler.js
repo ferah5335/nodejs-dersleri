@@ -4,6 +4,7 @@ console.log('merhaba');
 console.log(a);
 }
 a=1000000;
+
 if (a<200)
 console.log(a);
 else if(a>10000){
