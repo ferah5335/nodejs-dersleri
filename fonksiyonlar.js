@@ -17,6 +17,7 @@ function mesaj(){
 }
 
 var fonksiyon = function(){
+    
     console.log('Bilgisayar kavramları');
 };
 mesaj();
